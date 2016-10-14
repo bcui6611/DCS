@@ -17,4 +17,4 @@ clf = joblib.load('../Output/model.pkl')
 
 Enjoy!! :-)
 
-#MachineLearning #DeepLearning #DataScience #Python #Code
+# #MachineLearning #DeepLearning #DataScience #Python #Code
